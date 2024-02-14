@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Yesterday's Screen Time](https://share-your-screen-time.vercel.app)](https://share-your-screen-time.vercel.app)
+
 <!--
 **gerry-mandering/gerry-mandering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,1 +1,5 @@
-[![Yesterday's Screen Time](https://share-your-screen-time.vercel.app)](https://github.com/gerry-mandering/ShareYourScreenTime)
+<p align="center">
+  <a href="https://github.com/gerry-mandering/ShareYourScreenTime">
+    <img src="https://share-your-screen-time.vercel.app" alt="Yesterday's Screen Time">
+  </a>
+</p>
